@@ -39,15 +39,6 @@ Strategy performance is evaluated using:
 - NumPy
 - Matplotlib
 
-## Project Structure
-
-quant-trading-strategy-development/
-├── data/
-├── notebooks/
-├── figures/
-├── strategy/
-├── requirements.txt
-└── README.md
 
 # 9.0 Test
 
