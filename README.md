@@ -1,5 +1,5 @@
 # quant-trading-strategy-development
-Developed and backtested quantitative trading strategies using historical market data and portfolio performance metrics.
+Developed and backtested quantitative trading strategies using Codex and portfolio performance metrics.
 # Quant Trading Strategy Development
 
 This project develops and backtests quantitative trading strategies using historical financial market data.
